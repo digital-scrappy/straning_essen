@@ -1,11 +1,12 @@
 #+title: Essen für Straning
 * Kichererbsencurry
-- [ ] 2 kg Zwiebel
+- [ ] 2.5 kg Zwiebel
 - [ ] 1 pkg Ingwer frisch
 - [ ] Öl
 - [ ] 2 knollen Knoblauch
-- [ ] 3 kg Tomaten sauce
-- [ ] 3 kg Kichererbsen (abtropfgewicht!)
+- [ ] 2 kg Tomaten passata
+- [ ] 2 kg Tomaten gewürfelt
+- [ ] 3.5 kg Kichererbsen (abtropfgewicht!)
 - [ ] 2 Tuben tomatenmark
 * Chili Koriander Butter
 - [ ] 1 pkg frische Chili
